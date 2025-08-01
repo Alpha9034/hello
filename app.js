@@ -32,3 +32,5 @@ let changeColor = function(color, vari){
         vari.style.color = color;
     }, 250);
 }
+
+//Added feature branch
