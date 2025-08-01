@@ -32,3 +32,4 @@ let changeColor = function(color, vari){
         vari.style.color = color;
     }, 250);
 }
+//Hello! Alpha change in *main branch
